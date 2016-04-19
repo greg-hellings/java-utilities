@@ -41,7 +41,6 @@ public class Config {
 	 *
 	 * @param e
 	 * @param stream
-	 * @throws Exception
 	 */
 	public Config(final Enum e, InputStream stream) {
 		this(e.name(), stream);
