@@ -1,3 +1,4 @@
 target
 .idea
 utilities.iml
+travis/codesigning.asc
