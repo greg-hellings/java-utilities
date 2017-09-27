@@ -4,7 +4,7 @@
 Documentation
 =============
 
-It's probably best for you to read the `javadocs <http://javadoc.io/docs/com.thehellings/utilities`_.
+It's probably best for you to read the `javadocs <http://javadoc.io/doc/com.thehellings/utilities>`_.
 
 What This Is
 ============
