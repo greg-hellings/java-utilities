@@ -1,8 +1,6 @@
 language: java
 script:
   - mvn test
-  - mvn javadoc:javadoc
-  - mvn javadoc:test-javadoc
 cache:
   directories:
     - ~/.m2/repository
